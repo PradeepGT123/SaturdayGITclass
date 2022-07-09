@@ -1,0 +1,25 @@
+{
+
+"name":"Bala",
+"email":"bala@gmail.com",
+"empDetails":[{
+	"firestName":"Guna",
+	"course":"Java",
+	"address":"Chennai"
+	},{
+	"firestName":"Mani",
+	"course":"Api",
+	"address":"Chennai"
+	},{
+	"firestName":"Abi",
+	"course":"Selenium",
+	"address":"Chennai"
+	},{
+	"firestName":"Ravi",
+	"course":"Maven",
+	"address":"Chennai"
+	},
+
+}
+]
+}
